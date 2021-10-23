@@ -16,7 +16,8 @@
 4. https://github.com/DeimosC2/DeimosC2
 5. https://youtu.be/e7xQzPzOl9c
 6. https://securityonline.info/deimosc2-golang-command-and-control-framework-for-post-exploitation/
-7. https://github.com/Marten4n6/EvilOSX8. https://medium.com/@lucideus/evilosx-a-remote-administration-tool-rat-for-macos-os-x-lucideus-research-da0551ed3969
+7. https://github.com/Marten4n6/EvilOSX8 
+8. https://medium.com/@lucideus/evilosx-a-remote-administration-tool-rat-for-macos-os-x-lucideus-research-da0551ed3969
 9. https://youtu.be/SkDz7NjifxA
 10. https://github.com/EmpireProject/Empire
 11. https://github.com/sensepost/godoh
