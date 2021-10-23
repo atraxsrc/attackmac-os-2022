@@ -29,7 +29,7 @@
 18. https://github.com/frozenkp/gdoor
 19. https://github.com/gloxec/CrossC2
 ### Java Script
-1.https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/index.html
+1. https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/index.html
 2. https://medium.com/@hiraash/use-javascript-to-automate-stuff-on-macos-f1cdbb890f18
 3. https://computers.tutsplus.com/tutorials/a-beginners-guide-to-javascript-application-scripting-jxa--cms-27171
 4. https://kb.benchmarkemail.com/en/how-do-i-enable-javascript-in-my-browser-on-my-mac/
