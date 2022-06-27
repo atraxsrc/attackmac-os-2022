@@ -1,4 +1,4 @@
-# Attacking MAC OS
+# Attacking MAC OS 👽
 ### Get acquainted with the Mac OS
 1. https://youtu.be/67keaaWOKzE
 2. https://youtu.be/_RN89xApebs
